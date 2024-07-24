@@ -17,7 +17,7 @@ This project is a simple movie recommendation system built using Flask. It uses 
 1. **Clone the repository**:
     ```bash
     git clone https://github.com/your-username/DemoML.git
-    cd movie-recommendation-system
+    cd DemoML
     ```
 
 2. **Install the required packages**:
